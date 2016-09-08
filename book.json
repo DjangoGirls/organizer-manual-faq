@@ -12,5 +12,8 @@
       "description": "💖 Support our work and buy a Django Girls t-shirt! ✨",
       "btnText": "Get a t-shirt!"
     }
+  },
+  "structure": {
+     "readme": "home-page-description.md"
   }
 }
