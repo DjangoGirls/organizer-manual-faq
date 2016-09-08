@@ -1,9 +1,7 @@
 # Summary
 
-### Planning
+* [Help me, I'm stuck!](general/stuck.md)
 
-* [Yay?](planing/yay.md)
+### Event website and admin interface
 
-### Website
-
-* [Howto?](website/howto_this.md)
+* [Is it possible to add other people to my team after the event was created?](website/add_orga.md)
