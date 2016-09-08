@@ -1,0 +1,1 @@
+You don't need to contact us: just go [here](https://djangogirls.org/account/password_reset/) and follow the instructions ;) 

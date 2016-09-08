@@ -1,0 +1,3 @@
+ If you can, book your venue the evening before the workshop to do an installation party following these [instructions](http://tutorial.djangogirls.org/en/installation/index.html). You can also use this time to invite people from your local Python and Django communities to do lightning talks.
+ 
+If you can't do that, invite your coaches to meet their group online and send them these [instructions](http://tutorial.djangogirls.org/en/installation/index.html). To be sure they have time to plan this online party, contact your coaches at least a week before the event.

@@ -1,0 +1,1 @@
+The first thing you can do is check the [Translation Guide](http://translate.djangogirls.org/): you'll learn our translation process, from guidelines to deployment. You can also check [Crowdin documentation](https://support.crowdin.com/for-translators/getting-started-translators/interface-overview/) to learn how to use this tool.

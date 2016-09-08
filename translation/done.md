@@ -1,0 +1,2 @@
+First: congratulations! It's a lot of work that will help your attendees and many learners around the world!
+Now that the first part is done, you need someone to proofread your work. If you not sure if someone on your team is a proofreader, [ask us](mailto:hello@djangogirls.org)! When your translation is 100% approved, make a pull request to our tutorial repository. Check this [page](http://translate.djangogirls.org/when_its_ready.html) for more details.

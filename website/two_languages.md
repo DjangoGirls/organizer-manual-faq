@@ -1,0 +1,1 @@
+If you're part of an international conference or think that your event needs to be advertised in two languages, [contact us](mailto:hello@djangogirls.org).
