@@ -1,8 +1,10 @@
 # Summary
 
+### General
+
 * [Help me, I'm stuck!](general/stuck.md)
 * [I found a bug somewhere: what should I do?](general/bugs.md)
-* [I want to contribute: what can I do](general/contribute.md)
+* [I want to contribute: what can I do?](general/contribute.md)
 
 ### Event website and admin interface
 
@@ -39,6 +41,7 @@
 
 ### Django Girls in General
 
+* [What is Django Girls Support Team?](django_girls/support_team.md)
 * [Isn't Django Girls sexist?](django_girls/sexist.md)
 * [I'm an organizer, and someone is saying that my Django Girls event breaks discrimination laws. What do I do?](django_girls/discrimination.md)
 * [Are Django Girls events trans-inclusive?](django_girls/trans_inclusive.md)
