@@ -1,0 +1,3 @@
+It shouldn't be a problem but [ask](mailto:hello@djangogirls.org) for our permission first. We would prefer if you named your meetups "Django Girls meetup" to distinguish them from a regular workshop. Your meetup will need to be beginner friendly, have a Code of Conduct (you can use [ours](https://djangogirls.org/pages/coc/) if you want) and be free.
+
+Don't forget to add your event in our [meetup page](https://djangogirls.org/community/meetups)!

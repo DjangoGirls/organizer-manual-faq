@@ -1,0 +1,1 @@
+You can still see your application form because you're the website administrator. If you want to be sure it's closed for applicant, go to your website using the private mode of your browser.

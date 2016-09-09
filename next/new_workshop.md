@@ -1,0 +1,1 @@
+This is so cool! [Let us know](http://djangogirls.org/organize/) and we will set a new website for you. **Please do not change old website after the event**: it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page.
