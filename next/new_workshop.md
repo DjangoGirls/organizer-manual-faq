@@ -1,1 +1,1 @@
-This is so cool! [Let us know](http://djangogirls.org/organize/) and we will set a new website for you. **Please do not change old website after the event**: it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page.
+This is so cool! [Send us an email](mailto:hello@djangogirls.org) with the date of your next event and we will give you a new website. **Please do not change old website after the event**: it will cause more extra work for us and we will not have previous events listed nicely on our "Event" page.
