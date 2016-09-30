@@ -1,1 +1,0 @@
-To help you deal with Code of Conduct and incidents that could happen during your event, we strongly invite you to read the [Code of Conduct Handbook](https://www.coc-handbook.com/) written by Ola Sendecka and Ola Sitarska.
