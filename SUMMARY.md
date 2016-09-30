@@ -21,7 +21,7 @@
 * [Do you provide swag (stickers, nametags, etc) for events?](organization/provide_swag.md)
 * [I want the cool tattoos, stickers and t-shirts I saw on other events' pictures!](organization/resources.md)
 * [Can I give a certificate at the end of the workshop?](organization/certificate.md)
-* [What should I do if someone break the Code of Conduct during my event?](organization/inforce.md)
+* [What should I do if someone break the Code of Conduct during my event?](organization/enforce.md)
 
 ### Application process
 
