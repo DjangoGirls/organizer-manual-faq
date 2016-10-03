@@ -2,7 +2,7 @@
 
 ### General
 
-* [Help me, I'm stuck!](general/stuck.md)
+* [What should I do if I need help?](general/stuck.md)
 * [I found a bug somewhere: what should I do?](general/bugs.md)
 * [I want to contribute: what can I do?](general/contribute.md)
 
@@ -17,6 +17,7 @@
 
 ### Event organization
 
+* [Can I change my event's date?](organization/date.md)
 * [How to be sure attendees' computers are ready for the workshop?](organization/attendees_computer.md)
 * [Do you provide swag (stickers, nametags, etc) for events?](organization/provide_swag.md)
 * [I want the cool tattoos, stickers and t-shirts I saw on other events' pictures!](organization/resources.md)
@@ -29,6 +30,7 @@
 * [We scored applicants, and we have a lot of ties! What do we do?](application/ties.md)
 * [The application form should be closed so why can I still see it?](application/application_closed.md)
 * [The application form should be open but I can see a message saying it's not the case. What should I do?](application/application_not_working.md)
+* [How to contact only one person from the waiting list?](application/waiting_list.md)
 
 ### Translation
 
