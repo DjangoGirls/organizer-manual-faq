@@ -27,6 +27,7 @@
 ### Application process
 
 * [Where can I find all applications submitted for my event?](application/application_result.md)
+* [How do I create a link to the application form?](application/link.md)
 * [We scored applicants, and we have a lot of ties! What do we do?](application/ties.md)
 * [The application form should be closed so why can I still see it?](application/application_closed.md)
 * [The application form should be open but I can see a message saying it's not the case. What should I do?](application/application_not_working.md)
