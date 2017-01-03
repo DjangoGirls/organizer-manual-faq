@@ -1,0 +1,3 @@
+To be able to reset your password, you need to [set up a recovery phone number or email address](https://support.google.com/accounts/answer/183723). If you have done that, you will be able to reset your password by yourself: go to [Gmail](https://accounts.google.com/) and follow [Google's instructions](https://support.google.com/mail/answer/41078?hl=en).
+
+If you didn't, you'll need to [contact us](mailto:hello@djangogirls.org).

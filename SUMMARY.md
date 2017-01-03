@@ -11,6 +11,7 @@
 * [Is it possible to add other people to my team after the event was created?](website/add_orga.md)
 * [Is it possible to have a website in two languages?](website/two_languages.md)
 * [I lost my admin credentials: can you reset them?](website/credentials.md)
+* [I lost my email credentials: can you reset them?](website/credentials_email.md)
 * [Background images in my event website are cropped: what went wrong?](website/cropped.md)
 * [Why can't I edit my website anymore?](website/cant_edit.md)
 * [I try to add coaches on my website but it's not working: what can I do to fix it?](website/coaches.md)
