@@ -26,6 +26,12 @@
 * [What should I do if someone break the Code of Conduct during my event?](organization/enforce.md)
 * [How can I track a package from Django Girls store?](organization/tracking_box.md)
 
+### Sponsors
+* [Do you have an email template for contacting sponsor?](sponsors/email.md)
+* [Do you have an invoice template?](sponsors/invoice.md)
+* [Can you transfer money from a sponsor to me?](sponsors/transfer.md)
+* [Can I use Django Girls Foundation charity status for my local event?](sponsors/status.md)
+
 ### Application process
 
 * [Where can I find all applications submitted for my event?](application/application_result.md)
