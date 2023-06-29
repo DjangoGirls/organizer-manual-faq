@@ -3,9 +3,13 @@
   "plugins": [
     "heading-anchors",
     "theme-faq",
+    "github",
     "sidebar-ads"
   ],
   "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/DjangoGirls/organizer-manual-faq"
+        },
         "sidebar-ads": {
           "ads": [
             {
